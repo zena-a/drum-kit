@@ -7,4 +7,4 @@ Drum kit that can be played with buttons or the keyboard.
 Built with HTML, CSS and JavaScript to get a better understanding of event listeners using the mouse and keyboard. 
 
 ## Image
-![]()
+![Drum Kit Screenshot](/images/drum-kit-screenshot.png)
