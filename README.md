@@ -1,6 +1,6 @@
 # Drum Kit
 
-Drum kit that can be played with buttons or the keyboard. 
+A drum kit simulator that can be played with buttons or the keyboard. 
 
 ## Description
 
